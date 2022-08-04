@@ -1,2 +1,2 @@
-# B-l-m-Sonu-devi
+# Bolum-Sonu-odevi
 Html Bölüm Sonu Ödevi
